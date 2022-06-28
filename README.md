@@ -1,1 +1,1 @@
-Simple guess game using javascript
+A guessing game using javascript
