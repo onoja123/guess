@@ -1,7 +1,10 @@
+// Generate a random number for the guess
 const answer = math.floor((math.random) * 10 +1);
 
+// check how many times you tried
 let guesses = 0;
 
+// where the main program begins
 document.getElementById("btn").onclick = function(){
    let guess =  document.getElementById("guessfield").value
         guess +=1;
